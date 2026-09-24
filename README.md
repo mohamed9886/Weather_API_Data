@@ -52,10 +52,3 @@ Cleaned and enriched the raw JSON data using `pandas`:
 | `TemperatureCategory`| VARCHAR | Categorical indicator (Hot / Cold) |
 | `humidityCategory` | VARCHAR | Categorical indicator (High / Low) |
 | `IngestionTime` | VARCHAR | Timestamp of the ETL execution |
-
-## 🚀 How to Run the Project
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/mohamed9886/weather-etl-pipeline.git](https://github.com/mohamed9886/weather-etl-pipeline.git)
-   cd weather-etl-pipeline
